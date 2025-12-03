@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: A glimpse into who I am
 ---
 
 # 👋 Hi, I'm Dajin Kim
